@@ -1,0 +1,52 @@
+[
+  {
+    "name": "삼성전자",
+    "careerUrl": "https://www.samsungcareers.com",
+    "newsKeyword": "삼성전자",
+    "category": "전자/반도체",
+    "process": "지원서 접수 → 직무적성검사(GSAT) → 면접 → 건강검진",
+    "prep": "자기소개서, GSAT 대비, 직무 관련 경험 정리",
+    "schedule": "상반기/하반기 공채 (공고 직접 확인)",
+    "deadline": ""
+  },
+  {
+    "name": "현대자동차",
+    "careerUrl": "https://talent.hyundai.com",
+    "newsKeyword": "현대자동차",
+    "category": "자동차",
+    "process": "서류 → 인적성(HMAT) → 면접 → 최종 합격",
+    "prep": "자기소개서, 직무 경험, HMAT 대비",
+    "schedule": "수시 채용 중심 (공고 직접 확인)",
+    "deadline": ""
+  },
+  {
+    "name": "SK하이닉스",
+    "careerUrl": "https://recruit.skhynix.com",
+    "newsKeyword": "SK하이닉스",
+    "category": "전자/반도체",
+    "process": "서류 → 인적성/전공 테스트 → 면접 → 최종 합격",
+    "prep": "자기소개서, 전공 지식 복습, 직무 프로젝트",
+    "schedule": "공고 직접 확인",
+    "deadline": ""
+  },
+  {
+    "name": "LG전자",
+    "careerUrl": "https://careers.lg.com",
+    "newsKeyword": "LG전자",
+    "category": "전자",
+    "process": "서류 → 인적성 → 면접 → 최종 합격",
+    "prep": "자기소개서, 직무 경험, 어학 성적",
+    "schedule": "공고 직접 확인",
+    "deadline": ""
+  },
+  {
+    "name": "네이버",
+    "careerUrl": "https://recruit.navercorp.com",
+    "newsKeyword": "네이버",
+    "category": "IT/플랫폼",
+    "process": "서류 → 코딩/직무 테스트 → 면접 → 최종 합격",
+    "prep": "포트폴리오, 코딩 테스트 또는 직무 과제 대비",
+    "schedule": "공고 직접 확인",
+    "deadline": ""
+  }
+]
